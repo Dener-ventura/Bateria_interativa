@@ -11,3 +11,19 @@ body{
     height: 100vh;
     font-family: open sans-serif;
 }
+
+main{
+    display: flex;
+    flex-direction:column;
+
+}
+title{
+    color: #ffcc00; 
+}
+
+.container{
+    background-color: white;
+    width: 90vw;
+    height: 100px;  
+    
+}
